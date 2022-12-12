@@ -19,4 +19,4 @@
 <br>
 <h2>Neste projeto o conhecimento foi sobre responsividade!<h2/>
   <br>
-  <img src="
+  <img src="https://github.com/cristorodrigo/easy-shopping/blob/master/assets/Mobile.png?raw=true"/>
