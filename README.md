@@ -1,4 +1,4 @@
-<h1>Easy Shopping</h1>
+<h1 align="center">Easy Shopping</h1>
 <br>
 <br>
 
@@ -19,4 +19,6 @@
 <br>
 <h2>Neste projeto o conhecimento foi sobre responsividade!<h2/>
   <br>
+  <h1 align="center">
   <img src="https://github.com/cristorodrigo/easy-shopping/blob/master/assets/Mobile.png?raw=true"/>
+   </h1>
